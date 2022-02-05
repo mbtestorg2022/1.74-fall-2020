@@ -33,7 +33,7 @@ Fertility (births per woman)                  1.9       
 FAO arable land (million ha)\*               156                  106                  165
 
 Fraction cropland on                            ---                    80%                 66%  
-    farms < 5ha  
+    farms \< 5ha  
 Fraction cropland on                            91%                 --                      --  
     farms > 100 ha                                                                                        
 

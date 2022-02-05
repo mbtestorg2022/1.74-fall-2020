@@ -22,29 +22,187 @@ This is a reading and discussion seminar that includes lecture material. The rea
 Calendar
 --------
 
-| Class # | topics |
-| --- | --- |
-| {{< td-colspan 2 >}}**Section 1: Framing the Discussion**{{< /td-colspan >}} ||
-| 1 | The Food Security Debate |
-| {{< td-colspan 2 >}}**Section 2: Food and Natural Resources: Demand and Supply, Current and Projected**{{< /td-colspan >}} ||
-| 2 | Demand for Food: Population, Diet, and Food Loss |
-| 3 | Resources for Food Production: Water |
-| 4 | Resources for Food Production: Land and Nutrients |
-| {{< td-colspan 2 >}}**Section 3: Reconciling Demand and Supply: Context**{{< /td-colspan >}} ||
-| 5 | Crop Yield |
-| 6 | Environmental Impacts of Agriculture: Protecting Natural Resources |
-| 7 | Smallholder Farming: Focus on Africa |
-| 8 | Climate Change and Agriculture |
-| 9 | New Technologies and Practices: Genetic Engineering, Precision Agriculture |
-| 10 | Trade and Optimal Resource Allocation |
-| {{< td-colspan 2 >}}**Section 4: Reconciling Demand and Supply: Options**{{< /td-colspan >}} ||
-| 11 | Green Revolutions Past and Future |
-| 12 | Agroecology 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Class #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Section 1: Framing the Discussion**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Food Security Debate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Section 2: Food and Natural Resources: Demand and Supply, Current and Projected**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Demand for Food: Population, Diet, and Food Loss
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Resources for Food Production: Water
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Resources for Food Production: Land and Nutrients
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Section 3: Reconciling Demand and Supply: Context**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Crop Yield
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Environmental Impacts of Agriculture: Protecting Natural Resources
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Smallholder Farming: Focus on Africa
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Climate Change and Agriculture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+New Technologies and Practices: Genetic Engineering, Precision Agriculture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Trade and Optimal Resource Allocation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Section 4: Reconciling Demand and Supply: Options**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Green Revolutions Past and Future
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Agroecology
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
 
-| activities | percentages |
-| --- | --- |
-| Presentations & Participation | 70% |
-| Research Paper | 30%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentations & Participation
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

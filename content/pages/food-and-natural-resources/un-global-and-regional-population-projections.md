@@ -9,9 +9,33 @@ uid: d399c927-9e76-7a24-19d9-ffee9f92bfbb
 
 These UN population plots are based on historically reported population values before 2020 and on projections based on predicted trends in fertility (measured as total number of children per woman) starting in 2020 and ending in 2100 (UN Population Division, 2019). The total population (all genders and ages) in the designated region is presented as a median value computed from a Monte Carlo technique. The plots also include high and low fertility bounds (+- 0.5 child per woman). 
 
-| 91767757figs111jpg3866795 | 67737699figs112nnjpg63192120 |
-| 3302508figs113jpg30563444 | 5858622figs114nnjpg73654196 |
-| {{< td-colspan 2 >}}25458058figs115nnjpg97762493{{< /td-colspan >}} |
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+91767757figs111jpg3866795
+{{< tdclose >}}
+{{< tdopen >}}
+67737699figs112nnjpg63192120
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3302508figs113jpg30563444
+{{< tdclose >}}
+{{< tdopen >}}
+5858622figs114nnjpg73654196
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+25458058figs115nnjpg97762493
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Figure S1.1 UN Estimated Population Trends (UN Population Division. 2019)  
 (Click each individual figure to see its bigger version.)
