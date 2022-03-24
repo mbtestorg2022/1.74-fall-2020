@@ -68,7 +68,7 @@ Optional Reading
 ### Comparison of Agroecological and Conventional Crop Yields
 
 *   Verena Seufert, Navin Ramankutty, and Jonathan A. Foley. 2012. "[Comparing the Yields of Organic and Conventional Agriculture](https://www.nature.com/articles/nature11069)." _Nature_. 485, no. 7397: 229–232.
-*   Andreas Fliessbach, Hans-Rudolf Oberholzer, et al. 2007. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Soil Organic Matter and Biological Soil Quality Indicators After 21 Years of Organic and Conventional Farming (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.460.6456&rep=rep1&type=pdf)." _Agriculture, Ecosystems and Environment_. 118, no. 1–4: 273–284.
+*   Andreas Fliessbach, Hans-Rudolf Oberholzer, et al. 2007. "[Soil Organic Matter and Biological Soil Quality Indicators After 21 Years of Organic and Conventional Farming (PDF)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.460.6456&rep=rep1&type=pdf)." _Agriculture, Ecosystems and Environment_. 118, no. 1–4: 273–284.
 
 Discussion Points
 -----------------

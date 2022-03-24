@@ -60,7 +60,7 @@ Optional Readings
 ### Nitrogen
 
 *   Vaclav Smil. 1997. "[Global Population and the Nitrogen Cycle](https://www.scientificamerican.com/article/global-population-and-the-nitrogen/)." _Scientific American._ 277, no. 1: 76–81.
-*   Vaclav Smil. 1999. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nitrogen in Crop Production: An Account of Global Flows (PDF)](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1999GB900015)." _Global biogeochemical cycles._ 13, no. 2: 647–662.
+*   Vaclav Smil. 1999. "[Nitrogen in Crop Production: An Account of Global Flows (PDF)](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1999GB900015)." _Global biogeochemical cycles._ 13, no. 2: 647–662.
 *   James N. Galloway and Ellis B. Cowling. 2002. "[Reactive Nitrogen and the World: 200 Years of Change](https://www.researchgate.net/publication/11297112_Reactive_Nitrogen_and_The_World_200_Years_of_Change)." _AMBIO: A Journal of the Human Environment._ 31, no. 2: 64–71.
 
 ### Phosphorus
@@ -69,7 +69,7 @@ Optional Readings
 
 ### Soil Properties
 
-*   Ann McCauley, Clain Jones, and Jeff Jacobsen. 2005. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Basic Soil Properties (PDF)](http://landresources.montana.edu/swm/documents/Final_proof_SW1.pdf)." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
+*   Ann McCauley, Clain Jones, and Jeff Jacobsen. 2005. "[Basic Soil Properties (PDF)](http://landresources.montana.edu/swm/documents/Final_proof_SW1.pdf)." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
 
 Discussion Points
 -----------------

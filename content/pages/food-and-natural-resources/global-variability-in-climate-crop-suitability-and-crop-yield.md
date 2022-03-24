@@ -115,7 +115,7 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fai
 References:
 -----------
 
-R. Leemans and W. Cramer. 1991. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The IIASA Database for Mean Monthly Values of Temperature, Precipitation and Cloudiness on a Global Terrestrial Grid_ (PDF - 3.69MB)](https://core.ac.uk/download/pdf/33894953.pdf). Research Report RR-91-18. November 1991. International Institute of Applied Systems Analysis, Laxenburg, pp. 61.
+R. Leemans and W. Cramer. 1991. [_The IIASA Database for Mean Monthly Values of Temperature, Precipitation and Cloudiness on a Global Terrestrial Grid_ (PDF - 3.69MB)](https://core.ac.uk/download/pdf/33894953.pdf). Research Report RR-91-18. November 1991. International Institute of Applied Systems Analysis, Laxenburg, pp. 61.
 
 Rachel Licker, Matt Johnston, et al. 2010. "[Mind the Gap: How Do Climate and Agricultural Management Explain the ‘Yield Gap’of Croplands Around the World?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1466-8238.2010.00563.x)" _Global Ecology and Biogeography_, 19, no. 6: 769–782.
 

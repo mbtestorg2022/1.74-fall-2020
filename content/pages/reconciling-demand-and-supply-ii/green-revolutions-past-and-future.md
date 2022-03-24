@@ -31,7 +31,7 @@ Required Readings
 
 ### Background on the Green Revolution
 
-*   Peter B. R. Hazell. 2002. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Green Revolution: Curse or Blessing?_ (PDF)](https://oregonstate.edu/instruct/css/330/three/Green.pdf)" No. REP-9450. Washington, DC (USA), IFPRI. 3 p.
+*   Peter B. R. Hazell. 2002. "[_Green Revolution: Curse or Blessing?_ (PDF)](https://oregonstate.edu/instruct/css/330/three/Green.pdf)" No. REP-9450. Washington, DC (USA), IFPRI. 3 p.
 *   D. Pimentel and M. Pimentel 1990. "Comment: Adverse Environmental Consequences of the Green Revolution." _Population and Development Review_, 16, 329–332.
 
 ### Possibilities of Further Extending the Green Revolution’s Intensification Approach

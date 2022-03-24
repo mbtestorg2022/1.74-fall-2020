@@ -57,6 +57,6 @@ For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fai
 References:
 -----------
 
-FAO, IFAD and WFP. 2014. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The State of Food Insecurity in the World 2014. Strengthening the Enabling Environment for Food Security and Nutrition_ (PDF - 3MB)](http://www.fao.org/3/a-i4030e.pdf). Rome, FAO.
+FAO, IFAD and WFP. 2014. [_The State of Food Insecurity in the World 2014. Strengthening the Enabling Environment for Food Security and Nutrition_ (PDF - 3MB)](http://www.fao.org/3/a-i4030e.pdf). Rome, FAO.
 
 [Gapminder Tools site](https://www.gapminder.org/tools/#$chart-type=bubbles). 2019.

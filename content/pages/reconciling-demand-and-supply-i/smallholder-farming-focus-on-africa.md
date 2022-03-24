@@ -50,7 +50,7 @@ Optional Reading
 
 ### Smallholder Economic Profiles
 
-*   G. Rapsomanikis. 2015. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Economic Lives of Smallholder Farmers: An Analysis Based on Household Data from Nine Countries (PDF - 3.6MB)](http://www.fao.org/3/a-i5251e.pdf)." _Food and Agriculture Organization of the United Nations, Rome_.
+*   G. Rapsomanikis. 2015. "[The Economic Lives of Smallholder Farmers: An Analysis Based on Household Data from Nine Countries (PDF - 3.6MB)](http://www.fao.org/3/a-i5251e.pdf)." _Food and Agriculture Organization of the United Nations, Rome_.
 
 ### Farm Size and Distribution
 

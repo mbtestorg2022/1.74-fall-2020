@@ -74,7 +74,7 @@ Optional Readings
 
 ### Pest Losses
 
-*   E.-C. Oerke. 2006. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Crop Losses to Pests (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.657.5813&rep=rep1&type=pdf).” _Journal of Agricultural Science_, 144, 31–43.
+*   E.-C. Oerke. 2006. “[Crop Losses to Pests (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.657.5813&rep=rep1&type=pdf).” _Journal of Agricultural Science_, 144, 31–43.
     
 
 Discussion Points

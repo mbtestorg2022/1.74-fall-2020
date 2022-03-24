@@ -11,7 +11,7 @@ Further Study and Research
 
 [AQUASTAT](http://www.fao.org/nr/water/aquastat/main/index.stm): The Food and Agriculture Organization of the United Nations Global Information System on Water and Agriculture. AQUASTAT collects, analyses and disseminates data and information, by country, on water resources, water use and agricultural water management, with emphasis on irrigated agriculture in Africa, Asia, Latin America, and the Caribbean.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[FAO Food & Nutrition Numbers 2014 (PDF - 25.4MB)](https://learning-modules.mit.edu/service/materials/groups/248028/files/d1198b41-4143-45a9-9d85-7445278b266c/link?errorRedirect=%2Fmaterials%2Findex.html&download=true): The Food and Agriculture Organization of the United Nations data on food supply and nutrition.
+[FAO Food & Nutrition Numbers 2014 (PDF - 25.4MB)](https://learning-modules.mit.edu/service/materials/groups/248028/files/d1198b41-4143-45a9-9d85-7445278b266c/link?errorRedirect=%2Fmaterials%2Findex.html&download=true): The Food and Agriculture Organization of the United Nations data on food supply and nutrition.
 
 [UN Population Division](https://population.un.org/wpp/): Official United Nations population estimates and projections that have been prepared by the Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat.
 
@@ -21,7 +21,7 @@ Further Study and Research
 
 [IWMI](http://www.iwmi.cgiar.org/): The International Water Management Institute is a non-profit, scientific research organization focusing on the sustainable use of water and land resources in developing countries.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[IPCC AR5 WG1 Climate Change Complete Report (PDF - 366MB)](http://www.climatechange2013.org/images/report/WG1AR5_ALL_FINAL.pdf): The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (AR5) Working Group 1 (WG1) complete report.
+[IPCC AR5 WG1 Climate Change Complete Report (PDF - 366MB)](http://www.climatechange2013.org/images/report/WG1AR5_ALL_FINAL.pdf): The Intergovernmental Panel on Climate Change (IPCC) Fifth Assessment Report (AR5) Working Group 1 (WG1) complete report.
 
 [US National Climate Assessment, May 2014](http://nca2014.globalchange.gov/downloads): Official version of the 2014 National Climate Assessment.
 

@@ -69,7 +69,7 @@ Günther Fischer, F. Nachtergaele, et al. 2012. "[Global Agro-Ecological Zones (
 
 H. K. Gibbs and J. M. Salmon. 2015. "[Mapping the World's Degraded Lands](https://www.sciencedirect.com/science/article/pii/S0143622814002793)." _Applied Geography_, 57, 12–21.
 
-McCauley, A., Jones, C., and Jacobsen, J. (2005). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Basic Soil Properties (PDF)](http://landresources.montana.edu/swm/documents/Final_proof_SW1.pdf)." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
+McCauley, A., Jones, C., and Jacobsen, J. (2005). "[Basic Soil Properties (PDF)](http://landresources.montana.edu/swm/documents/Final_proof_SW1.pdf)." _Soil and Water Management Module_. 1, no. 1: 1–12. Montana State University Extension Service.
 
 Michelle M. Wander, Larry J. Cihacek, et al. 2019. "[Developments in Agricultural Soil Quality and Health: Reflections by the Research Committee on Soil Organic Matter Management](https://www.frontiersin.org/articles/10.3389/fenvs.2019.00109/full)." _Frontiers in Environmental Science_, 7, 10.3389/fenvs.2019.00109.
 

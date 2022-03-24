@@ -31,7 +31,7 @@ Required Readings
 
 *   Eric F. Lambin and Patrick Meyfroidt. 2011. "[Global Land Use Change, Economic Globalization, and the Looming Land Scarcity](https://www.pnas.org/content/108/9/3465)." _Proceedings of the National Academy of Sciences_. 108, no. 9: 3465–72.
     
-    *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Supporting Information (PDF)](http://www.pnas.org/content/suppl/2011/02/07/1100480108.DCSupplemental/pnas.201100480SI.pdf)
+    *   [Supporting Information (PDF)](http://www.pnas.org/content/suppl/2011/02/07/1100480108.DCSupplemental/pnas.201100480SI.pdf)
 
 ### Identification of Land Suitable for Crops
 
