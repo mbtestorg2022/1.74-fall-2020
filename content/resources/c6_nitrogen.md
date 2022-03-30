@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 0df26d4a-ca37-738a-c733-9071f083734f
 resourcetype: Image
 title: C6_Nitrogen.png
 uid: 9362ce41-d7b1-96f1-3a0e-b4a15114aa4b

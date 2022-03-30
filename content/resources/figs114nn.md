@@ -7,6 +7,7 @@ image_metadata:
   caption: Figure S1.1.4 UN estimated population trends (China).
   credit: 'Courtesy UN Population Division. License: CC BY.'
   image-alt: Figure with curves and legends.
+parent_uid: d399c927-9e76-7a24-19d9-ffee9f92bfbb
 resourcetype: Image
 title: FigS114nn.jpg
 uid: 4ea198b1-3ef3-5f1b-a1a7-772a4a57b2bd

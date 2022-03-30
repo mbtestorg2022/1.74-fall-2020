@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3187906a-f47f-cc4b-6842-8d931a32d49f
 resourcetype: Image
 title: C11_RiceVarieties.png
 uid: 5860b4b6-a93e-47e7-8227-5dff9e183aa1

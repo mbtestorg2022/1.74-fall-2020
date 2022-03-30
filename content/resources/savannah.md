@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 23e9791a-9ce9-4e49-5db1-f008a91a9c25
 resourcetype: Image
 title: Savannah.png
 uid: b42f4baa-fc80-2bb5-ac16-b24a3eff73bc

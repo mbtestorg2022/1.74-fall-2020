@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1be97067-a4fb-601f-6341-a348cb0f1753
 resourcetype: Image
 title: Fig_S7.1.jpg
 uid: 9fd7caec-31c3-27b4-3594-d5e8570974f8

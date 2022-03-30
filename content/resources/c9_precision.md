@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: cd91cf6f-3d87-1fa4-380a-e053e7ed889b
 resourcetype: Image
 title: C9_Precision.png
 uid: 6151087a-8e48-4393-7b8b-e110f8538681

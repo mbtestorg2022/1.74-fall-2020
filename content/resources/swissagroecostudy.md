@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f15864c8-e1d9-f1b7-8c00-28a2df10524f
 resourcetype: Image
 title: SwissAgroEcoStudy.png
 uid: fa5b85a2-7fa1-25f3-0629-6c046240ce32

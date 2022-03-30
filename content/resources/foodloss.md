@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ee9afca1-1572-d691-da89-8afd529f77e5
 resourcetype: Image
 title: FoodLoss.png
 uid: ef41c575-9dcd-0fb8-f685-2cf5190f6c09

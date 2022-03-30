@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 80a1f194-8379-a7e0-bd28-be96b3fc236d
 resourcetype: Image
 title: S3_table.jpg
 uid: 4e93ca7a-178f-fc94-d482-958cfbcc9419

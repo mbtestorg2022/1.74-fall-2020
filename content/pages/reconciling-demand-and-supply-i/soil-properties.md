@@ -8,7 +8,7 @@ uid: 7c50770f-1bf3-0d2c-cbd9-e99f87190be5
 
 Soil is comprised of inorganic minerals, organic matter, water, and air. It typically forms in layers (or soil horizons) when it develops from the weathering and transport of mineral or organic parent material (Figure S9.1).
 
-![A pie chart and a thick bar with 5 colors.](/courses/civil-and-environmental-engineering/1-74-land-water-food-and-climate-fall-2020/reconciling-demand-and-supply-i/soil-properties/Fig_S11.1.jpg)
+{{< resource "b6c218b4-3931-0dc1-4637-814eed6d8105" >}}
 
 Figure S9.1: a) Primary components of soil, fractions are representative but change over time.   
 b) Soil horizons found in a typical agricultural soil profile. From Brady and Weil (2002).
@@ -49,7 +49,7 @@ Unfortunately, data limitations make it difficult to use such methods to analyze
 
 However, there is still ample local evidence that soil quality has declined in particular agricultural areas that have experienced intense cultivation or grazing pressure. These include parts of North and South America, India, China, and sub-Saharan Africa. In these areas it is likely that yield has suffered or, in some cases, that the land is no longer suitable for agriculture.
 
-![Four maps showing 4 different estimates of global soil degradation .](/courses/civil-and-environmental-engineering/1-74-land-water-food-and-climate-fall-2020/reconciling-demand-and-supply-i/soil-properties/Fig_S11.2.jpg)
+{{< resource "b2561a8f-f636-6c0e-395d-681f72f505f9" >}}
 
 Figure S9.2: Four different estimates of global soil degradation with a common color scale (percent of land  
 degraded) and 20km resolution, ca. 1990 (GLASOD) and 2010 (others), from Gibbs and Salmon (2015).

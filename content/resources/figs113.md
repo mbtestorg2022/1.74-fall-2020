@@ -7,6 +7,7 @@ image_metadata:
   caption: Figure S1.1.3 UN estimated population trends (USA).
   credit: 'Courtesy UN Population Division. License: CC BY.'
   image-alt: Figure with curves and legends.
+parent_uid: d399c927-9e76-7a24-19d9-ffee9f92bfbb
 resourcetype: Image
 title: FigS113.jpg
 uid: df881712-239e-4a79-132e-a79dbc832bf6

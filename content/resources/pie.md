@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 23e9791a-9ce9-4e49-5db1-f008a91a9c25
 resourcetype: Image
 title: Pie.png
 uid: 7b9e1e26-ccca-cfc4-8f95-cdda20f4cf5f
